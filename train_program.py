@@ -65,7 +65,7 @@ def check():
 
 master = Tk()
 master.geometry('350x250+100+100')
-master.title("小学生运算训练程序")
+master.title("运算训练程序")
 Label(master,text="题目").grid(row=0)
 Label(master,text="答案").grid(row=1)
 Label(master,text="信息").grid(row=4)
